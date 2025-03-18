@@ -1,16 +1,13 @@
-# google_map
+# Google_Map_Task
 
-A new Flutter project.
+A new Flutter task that demonstrates how to use the Google Maps Flutter package to display a map with a marker.
 
-## Getting Started
+## **Features**
 
-This project is a starting point for a Flutter application.
+- Display a map with a marker
+- Ability to zoom in/out
+- Get Cairo location on map by a click
 
-A few resources to get you started if this is your first Flutter project:
+## **Dependances**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- `google_maps_flutter: ^2.1.2`
